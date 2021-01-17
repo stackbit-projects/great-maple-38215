@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to my portfoilo
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Oscar J. Sanchez is
     actions:
       - label: Learn More
         url: /features
