@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to my portfoilo
-    subtitle: Oscar J. Sanchez is
+    subtitle: I am a
     actions:
       - label: Learn More
         url: /features
