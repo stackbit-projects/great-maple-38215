@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to my portfoilo
-    subtitle: I am a
+    subtitle: >-
+      I am a student at San Diego State University studying Geographic
+      Information Systems and
     actions:
       - label: Learn More
         url: /features
