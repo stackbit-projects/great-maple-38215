@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: Welcome to my portfoilo
     subtitle: >-
-      I am a student at San Diego State University studying Geographic
-      Information Systems and
+      I'm a senior at studying Geographic Information Science and Technology at
+      San Diego State University. As you browse my portfolio I encourage you to
+      ask questions, I look forward to linking
     actions:
       - label: Learn More
         url: /features
